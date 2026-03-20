@@ -35,3 +35,11 @@ gcc src/main.c -o program
 [Написать автору](mailto:author@example.com)
 
 [Исходный код на GitHub](https://github.com/Nawruzbek/ibragimov-navruzbek.-kr-1)
+
+## Команды Git
+
+| Команда | Описание |
+|---------|----------|
+| git init | Инициализация репозитория |
+| git add | Добавление файлов в индекс |
+| git commit | Создание коммита |
