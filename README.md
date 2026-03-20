@@ -26,3 +26,6 @@ gcc src/main.c -o program
 
 ## License
 Этот проект распространяется под лицензией MIT.
+
+## Contact
+[Написать автору](mailto:author@example.com)
