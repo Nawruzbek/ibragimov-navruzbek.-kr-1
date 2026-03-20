@@ -29,3 +29,5 @@ gcc src/main.c -o program
 
 ## Contact
 [Написать автору](mailto:author@example.com)
+
+[Исходный код на GitHub](https://github.com/Nawruzbek/ibragimov-navruzbek.-kr-1)
