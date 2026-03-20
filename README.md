@@ -9,3 +9,12 @@
 1. Склонируйте репозиторий: `git clone https://github.com/Nawruzbek/ibragimov-navruzbek.-kr-1`
 2. Перейдите в директорию проекта: `cd ibragimov-navruzbek.-kr-1`
 3. Установите компилятор GCC (если не установлен): `brew install gcc` (для macOS)
+
+## Usage
+Приложение выводит информацию о студенте и группе.
+
+Для компиляции и запуска выполните:
+```bash
+gcc src/main.c -o program
+./program
+```
