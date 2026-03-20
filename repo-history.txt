@@ -1,0 +1,16 @@
+* 2072cb9 add: version badge
+* 507581d add: project quote
+* 7ab3cb8 add: text formatting examples
+* 3180cc7 add: todo list
+* 0f6098c add: versions support table
+* 303799e add: commands table
+* 5ed4622 add: git logo image
+* 465456f add: repository link
+* 77ac825 add: contact information with link
+* c33c64d add: license information
+* 626de69 add: contributing guidelines
+* 144e99b add: usage example
+* c490cfe add: installation instructions
+* ede7b48 add: project description
+* 06956da add: project description
+* ce7d24c add: project title

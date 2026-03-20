@@ -1,0 +1,86 @@
+2072cb9 HEAD@{0}: checkout: moving from main to feature/gitlog
+2072cb9 HEAD@{1}: checkout: moving from feature/final-fix to main
+2072cb9 HEAD@{2}: checkout: moving from main to feature/final-fix
+2072cb9 HEAD@{3}: checkout: moving from main to main
+2072cb9 HEAD@{4}: checkout: moving from feature/fix-formatting to main
+2072cb9 HEAD@{5}: checkout: moving from main to feature/fix-formatting
+2072cb9 HEAD@{6}: checkout: moving from main to main
+2072cb9 HEAD@{7}: merge feature/badge: Fast-forward
+507581d HEAD@{8}: checkout: moving from feature/badge to main
+2072cb9 HEAD@{9}: commit: add: version badge
+507581d HEAD@{10}: checkout: moving from main to feature/badge
+507581d HEAD@{11}: checkout: moving from main to main
+507581d HEAD@{12}: merge feature/quote: Fast-forward
+7ab3cb8 HEAD@{13}: checkout: moving from feature/quote to main
+507581d HEAD@{14}: commit: add: project quote
+7ab3cb8 HEAD@{15}: checkout: moving from main to feature/quote
+7ab3cb8 HEAD@{16}: checkout: moving from main to main
+7ab3cb8 HEAD@{17}: merge feature/text-formatting: Fast-forward
+3180cc7 HEAD@{18}: checkout: moving from feature/text-formatting to main
+7ab3cb8 HEAD@{19}: commit: add: text formatting examples
+3180cc7 HEAD@{20}: checkout: moving from main to feature/text-formatting
+3180cc7 HEAD@{21}: checkout: moving from main to main
+3180cc7 HEAD@{22}: merge feature/todo-list: Fast-forward
+0f6098c HEAD@{23}: checkout: moving from feature/todo-list to main
+3180cc7 HEAD@{24}: commit: add: todo list
+0f6098c HEAD@{25}: checkout: moving from main to feature/todo-list
+0f6098c HEAD@{26}: checkout: moving from main to main
+0f6098c HEAD@{27}: merge feature/versions-table: Fast-forward
+303799e HEAD@{28}: checkout: moving from feature/versions-table to main
+0f6098c HEAD@{29}: commit: add: versions support table
+303799e HEAD@{30}: checkout: moving from main to feature/versions-table
+303799e HEAD@{31}: checkout: moving from main to main
+303799e HEAD@{32}: merge feature/commands-table: Fast-forward
+5ed4622 HEAD@{33}: checkout: moving from feature/commands-table to main
+303799e HEAD@{34}: commit: add: commands table
+5ed4622 HEAD@{35}: checkout: moving from main to feature/commands-table
+5ed4622 HEAD@{36}: checkout: moving from main to main
+5ed4622 HEAD@{37}: merge feature/image: Fast-forward
+465456f HEAD@{38}: checkout: moving from feature/image to main
+5ed4622 HEAD@{39}: commit: add: git logo image
+465456f HEAD@{40}: checkout: moving from main to feature/image
+465456f HEAD@{41}: checkout: moving from main to main
+465456f HEAD@{42}: merge feature/repo-link: Fast-forward
+77ac825 HEAD@{43}: checkout: moving from feature/repo-link to main
+465456f HEAD@{44}: commit: add: repository link
+77ac825 HEAD@{45}: checkout: moving from main to feature/repo-link
+77ac825 HEAD@{46}: checkout: moving from main to main
+77ac825 HEAD@{47}: merge feature/contact: Fast-forward
+c33c64d HEAD@{48}: checkout: moving from feature/contact to main
+77ac825 HEAD@{49}: commit: add: contact information with link
+c33c64d HEAD@{50}: checkout: moving from main to feature/contact
+c33c64d HEAD@{51}: checkout: moving from main to main
+c33c64d HEAD@{52}: merge feature/license: Fast-forward
+626de69 HEAD@{53}: checkout: moving from feature/license to main
+c33c64d HEAD@{54}: commit: add: license information
+626de69 HEAD@{55}: checkout: moving from main to feature/license
+626de69 HEAD@{56}: checkout: moving from main to main
+626de69 HEAD@{57}: merge feature/contributing: Fast-forward
+144e99b HEAD@{58}: checkout: moving from feature/contributing to main
+626de69 HEAD@{59}: commit: add: contributing guidelines
+144e99b HEAD@{60}: checkout: moving from main to feature/contributing
+144e99b HEAD@{61}: checkout: moving from main to main
+144e99b HEAD@{62}: merge feature/usage: Fast-forward
+c490cfe HEAD@{63}: checkout: moving from feature/usage to main
+144e99b HEAD@{64}: commit: add: usage example
+c490cfe HEAD@{65}: checkout: moving from main to feature/usage
+c490cfe HEAD@{66}: reset: moving to c490cfe
+c490cfe HEAD@{67}: reset: moving to c490cfe
+c490cfe HEAD@{68}: reset: moving to c490cfe
+d333e9f HEAD@{69}: checkout: moving from main to main
+d333e9f HEAD@{70}: commit: add: usage example
+c490cfe HEAD@{71}: merge feature/installation: Fast-forward
+ede7b48 HEAD@{72}: checkout: moving from feature/installation to main
+c490cfe HEAD@{73}: commit: add: installation instructions
+ede7b48 HEAD@{74}: checkout: moving from main to feature/installation
+ede7b48 HEAD@{75}: checkout: moving from main to main
+ede7b48 HEAD@{76}: merge feature/description: Fast-forward
+06956da HEAD@{77}: checkout: moving from feature/description to main
+ede7b48 HEAD@{78}: commit: add: project description
+06956da HEAD@{79}: checkout: moving from main to feature/description
+06956da HEAD@{80}: merge feature/project: Fast-forward
+ce7d24c HEAD@{81}: checkout: moving from feature/project to main
+06956da HEAD@{82}: commit: add: project description
+ce7d24c HEAD@{83}: checkout: moving from main to feature/project
+ce7d24c HEAD@{84}: checkout: moving from feature/project-title to main
+ce7d24c HEAD@{85}: commit (initial): add: project title
