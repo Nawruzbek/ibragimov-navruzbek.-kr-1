@@ -1,5 +1,9 @@
 # Мой учебный проект
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
+
+
 ## Description
 
 > *"Этот проект помогает освоить основы работы с Git и Markdown"* — Автор проекта
